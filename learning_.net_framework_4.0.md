@@ -9,11 +9,11 @@ Understanding [.NET](https://learn.microsoft.com/en-us/dotnet/api/?view=netframe
 
 * [Microsoft.Win32](#!)⭐
   * [Microsoft.Win32.SafeHandles](#!)
-* [System](#!)
+* [System](#!)⭐
   * [System.Collections](#!)⭐
     * [System.Collections.Concurrent](#!)
-    * [System.Collections.Generic](#!)
-    * [System.Collections.ObjectModel](#!)
+    * [System.Collections.Generic](#!)⭐
+    * [System.Collections.ObjectModel](#!)⭐
   * [System.Configuration.Assemblies](#!)
   * [System.Deployment.Internal](#!)
   * [System.Diagnostics](#!)
@@ -22,7 +22,7 @@ Understanding [.NET](https://learn.microsoft.com/en-us/dotnet/api/?view=netframe
       * [System.Diagnostics.Contracts.Internal](#!)
     * [System.Diagnostics.SymbolStore](#!)
     * [System.Diagnostics.Tracing](#!)
-  * [System.Globalization](#!)
+  * [System.Globalization](#!)⭐
   * [System.IO](#!)⭐
     * [System.IO.IsolatedStorage](#!)
   * [System.Reflection](#!)⭐
@@ -52,7 +52,7 @@ Understanding [.NET](https://learn.microsoft.com/en-us/dotnet/api/?view=netframe
       * [System.Runtime.Serialization.Formatters](#!)
         * [System.Runtime.Serialization.Formatters.Binary](#!)
     * [System.Runtime.Versioning](#!)
-  * [System.Security](#!)⭐
+  * [System.Security](#!)
     * [System.Security.AccessControl](#!)
     * [System.Security.Claims](#!)
     * [System.Security.Cryptography](#!)
@@ -66,41 +66,41 @@ Understanding [.NET](https://learn.microsoft.com/en-us/dotnet/api/?view=netframe
 
 # `SYSTEM.DLL` Namespaces
 
-* [Microsoft.CSharp](#!)⭐
+* [Microsoft.CSharp](#!)
 * [Microsoft.VisualBasic](#!)
-* [Microsoft.Win32](#!)⭐
+* [Microsoft.Win32](#!)
   * [Microsoft.Win32.SafeHandles](#!)
 * [System](#!)
   * [System.CodeDom](#!)
     * [System.CodeDom.Compiler](#!)
   * [System.Collections.Concurrent](#!)
   * [System.Collections.Generic](#!)⭐
-  * [System.Collections.ObjectModel](#!)⭐
+  * [System.Collections.ObjectModel](#!)
   * [System.Collections.Specialized](#!)
-  * [System.ComponentModel](#!)⭐
+  * [System.ComponentModel](#!)
     * [System.ComponentModel.Design](#!)
       * [System.ComponentModel.Design.Serialization](#!)
-  * [System.Configuration](#!)
+  * [System.Configuration](#!)⭐
   * [System.Diagnostics](#!)
     * [System.Diagnostics.CodeAnalysis](#!)
   * [System.IO](#!)⭐
-    * [System.IO.Compression](#!)
-    * [System.IO.Ports](#!)
+    * [System.IO.Compression](#!)⭐
+    * [System.IO.Ports](#!)⭐
   * [System.Media](#!)
   * [System.Net](#!)⭐
-    * [System.Net.Cache](#!)
-    * [System.Net.Configuration](#!)
-    * [System.Net.Mail](#!)
-    * [System.Net.Mime](#!)
-    * [System.Net.NetworkInformation](#!)
-    * [System.Net.Security](#!)
-    * [System.Net.Sockets](#!)
-    * [System.Net.WebSockets](#!)
-  * [System.Reflection](#!)⭐
+    * [System.Net.Cache](#!)⭐
+    * [System.Net.Configuration](#!)⭐
+    * [System.Net.Mail](#!)⭐
+    * [System.Net.Mime](#!)⭐
+    * [System.Net.NetworkInformation](#!)⭐
+    * [System.Net.Security](#!)⭐
+    * [System.Net.Sockets](#!)⭐
+    * [System.Net.WebSockets](#!)⭐
+  * [System.Reflection](#!)
   * [System.Runtime.InteropServices](#!)
     * [System.Runtime.InteropServices.ComTypes](#!)
   * [System.Runtime.Versioning](#!)
-  * [System.Security](#!)⭐
+  * [System.Security](#!)
     * [System.Security.AccessControl](#!)
     * [System.Security.Authentication](#!)
       * [System.Security.Authentication.ExtendedProtection](#!)
@@ -109,10 +109,10 @@ Understanding [.NET](https://learn.microsoft.com/en-us/dotnet/api/?view=netframe
     * [System.Security.Cryptography](#!)
       * [System.Security.Cryptography.X509Certificates](#!)
     * [System.Security.Permissions](#!)
-  * [System.Text.RegularExpressions](#!)
-  * [System.Threading](#!)⭐
+  * [System.Text.RegularExpressions](#!)⭐
+  * [System.Threading](#!)
   * [System.Timers](#!)⭐
-  * [System.Web](#!)⭐
+  * [System.Web](#!)
   * [System.Windows.Input](#!)
   * [System.Windows.Markup](#!)
 
@@ -126,16 +126,16 @@ Understanding [.NET](https://learn.microsoft.com/en-us/dotnet/api/?view=netframe
       * [System.Diagnostics.Eventing.Reader](#!)
     * [System.Diagnostics.PerformanceData](#!)
   * [System.Dynamic](#!)⭐
-  * [System.IO](#!)⭐
+  * [System.IO](#!)
     * [System.IO.MemoryMappedFiles](#!)
-    * [System.IO.Pipes](#!)
+    * [System.IO.Pipes](#!)⭐
   * [System.Linq](#!)⭐
-    * [System.Linq.Expressions](#!)
+    * [System.Linq.Expressions](#!)⭐
   * [System.Management.Instrumentation](#!)
   * [System.Runtime.CompilerServices](#!)
   * [System.Runtime.InteropServices](#!)
-  * [System.Security](#!)⭐
+  * [System.Security](#!)
     * [System.Security.Cryptography](#!)
       * [System.Security.Cryptography.X509Certificates](#!)
-  * [System.Threading](#!)⭐
+  * [System.Threading](#!)
     * [System.Threading.Tasks](#!)
