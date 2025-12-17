@@ -5,7 +5,7 @@ Understanding [.NET](https://learn.microsoft.com/en-us/dotnet/api/?view=netframe
 # Using Icons
 ⭐ 🌟 ✨ 💫 🔯 ✴️ ❤️ 💔 ✅ ❌
 
-# `MSCORLIB.DLL` Namespaces
+# `MsCorlib.dll` Namespaces
 
 * [Microsoft.Win32](#!)⭐
   * [Microsoft.Win32.SafeHandles](#!)
@@ -64,7 +64,7 @@ Understanding [.NET](https://learn.microsoft.com/en-us/dotnet/api/?view=netframe
   * [System.Threading](#!)⭐
     * [System.Threading.Tasks](#!)
 
-# `SYSTEM.DLL` Namespaces
+# `System.dll` Namespaces
 
 * [Microsoft.CSharp](#!)
 * [Microsoft.VisualBasic](#!)
@@ -116,7 +116,7 @@ Understanding [.NET](https://learn.microsoft.com/en-us/dotnet/api/?view=netframe
   * [System.Windows.Input](#!)
   * [System.Windows.Markup](#!)
 
-# `SYSTEM.CORE.DLL` Namespaces
+# `System.Core.dll` Namespaces
 
 * [Microsoft.Win32.SafeHandles](#!)
 * [System](#!)
