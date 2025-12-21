@@ -2,9 +2,6 @@
 
 Understanding [.NET](https://learn.microsoft.com/en-us/dotnet/api/?view=netframework-4.8.1) namespaces is essential, as they effectively assist us in intuitively comprehending the structure of the .NET framework.
 
-# Using Icons
-⭐ 🌟 ✨ 💫 🔯 ✴️ ❤️ 💔 ✅ ❌
-
 # `MsCorlib.dll` Namespaces
 
 * [Microsoft.Win32](#!)⭐

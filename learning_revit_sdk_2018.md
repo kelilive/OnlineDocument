@@ -2,9 +2,6 @@
 
 Understanding Revit SDK namespaces is essential, as they effectively assist us in intuitively comprehending the structure of the Revit SDK.
 
-# Using Icons
-⭐ 🌟 ✨ 💫 🔯 ✴️ ❤️ 💔 ✅ ❌
-
 # `AdWindows.dll` Namespaces
 
 * [Autodesk.Internal.InfoCenter](#!)

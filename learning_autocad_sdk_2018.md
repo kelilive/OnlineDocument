@@ -2,9 +2,6 @@
 
 Understanding AutoCAD SDK namespaces is essential, as they effectively assist us in intuitively comprehending the structure of the AutoCAD SDK.
 
-# Using Icons
-⭐ 🌟 ✨ 💫 🔯 ✴️ ❤️ 💔 ✅ ❌
-
 # `AcCui.dll` Namespaces
 
 * [Autodesk.AutoCAD.Customization](#!)
