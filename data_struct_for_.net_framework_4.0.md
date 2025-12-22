@@ -68,8 +68,10 @@
 
 * [Hash/Dictionary](#!)
   * [Hash Table](#!)
+    * [`class Hashtable`](#!)
     * [`class Dictionary<TKey,TValue>`](#!)
   * [Sorted Map](#!)
+    * [`class SortedList`](#!)
     * [`class SortedList<TKey,TValue>`](#!)
     * [`class SortedDictionary<TKey,TValue>`](#!)
   * [Bi-directional Map](#!)
@@ -109,5 +111,5 @@
   * [`class ConcurrentQueue<T>`](#!)
   * [`class ConcurrentStack<T>`](#!)
   * [`class ConcurrentBag<T>`](#!)
-  * [`class ConcurrentDictionary<T>`](#!)
+  * [`class ConcurrentDictionary<TKey,TValue>`](#!)
   * [`class BlockingCollection<T>`](#!)
