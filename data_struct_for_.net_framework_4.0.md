@@ -71,19 +71,17 @@
       * [Tree Graph](#!)
       * [Bipartite](#!)
 
-* [Set](#!)
-    * [`class HashSet<T>`](#!)
-    * [`class SortedSet<T>`](#!)
-
 * [Hash](#!)
   * [`class Hashtable`](#!)
+  * [`class HashSet<T>`](#!)
   * [`class Dictionary<TKey,TValue>`](#!)
   * [`class OrderedDictionary`](#!)
 
 * [Specialized / Utility](#!)
   * [Sorted](#!)
-    * [`class SortedList`](#!)
+    * [`class SortedSet<T>`](#!)
     * [`class SortedDictionary<TKey,TValue>`](#!)
+    * [`class SortedList`](#!)
     * [`class SortedList<TKey,TValue>`](#!)
   * [ReadOnly](#!)
     * [`class ReadOnlyCollection<T>`](#!)
