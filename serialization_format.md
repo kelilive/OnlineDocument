@@ -125,5 +125,3 @@
 | Binary JSON | Compact binary JSON | MessagePack, CBOR | IoT, microservices | Public APIs |
 | Schema-Based Binary | IDL-based binary formats | Protobuf, Avro, Thrift | RPC, pipelines | Human editing |
 | Zero-Copy | Direct-access binary layouts | FlatBuffers, Cap’n Proto | Games, embedded | Schema evolution |
-
----
