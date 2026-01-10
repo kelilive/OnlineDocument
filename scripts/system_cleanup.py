@@ -95,9 +95,17 @@ def clear_search_history():
 
 def restart_explorer():
     print("Restarting Explorer")
-    subprocess.run(["taskkill", "/F", "/IM", "explorer.exe"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-    subprocess.run(["explorer.exe"])
-    print("Explorer restarted")
+    subprocess.Popen(
+        ["taskkill", "/im", "explorer.exe"],
+        stdout=subprocess.DEVNULL,
+        stderr=subprocess.DEVNULL
+    )
+    subprocess.Popen(
+        ["explorer.exe"],
+        stdout=subprocess.DEVNULL,
+        stderr=subprocess.DEVNULL
+    )
+    print("Explorer restart command sent")
 
 if __name__ == "__main__":
     remove_recent_items()
