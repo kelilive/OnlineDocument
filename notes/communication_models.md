@@ -104,7 +104,7 @@ All digital communication patterns can be mapped back to these three life-origin
 # Summary Table
 
 | Communication Model | Life Analogy | Core Essence | Mechanisms | Technical Mapping |
-|---------------------|--------------|--------------|------------|-------------------|
+|---|---|---|---|---|
 | Request–Response | Sending letters, emails, bank counter | Pull-based, synchronous, stateless | Request/Response, Polling | HTTP, REST, RPC, gRPC |
 | Publish–Subscribe | Radio, newspaper subscription | Push-based, asynchronous, decoupled | Subscribe/Publish | Kafka, MQTT, RabbitMQ, SSE |
 | Session / Duplex | Phone call, conversation | Bidirectional, stateful, real-time | Connect/Send/Receive/Heartbeat | WebSocket, TCP, QUIC |
