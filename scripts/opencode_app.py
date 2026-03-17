@@ -181,6 +181,7 @@ class OpenCodeApp:
 
     def run_opencode(self, query, path, display):
         try:
+            
             env = os.environ.copy()
             env["PYTHONIOENCODING"] = "utf-8"
             target_cwd = os.path.normpath(path) if path and os.path.exists(path) else None
