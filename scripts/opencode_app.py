@@ -9,6 +9,7 @@ from datetime import datetime
 import tkinter as tk
 from tkinter import ttk, scrolledtext, filedialog
 
+
 # --- STEALTH STARTUP: HIDE THE WINDOW ---
 def hide_console():
     """Hides the Python console window on Windows immediately."""
