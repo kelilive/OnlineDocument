@@ -71,11 +71,11 @@
       * [Tree Graph](#!)
       * [Bipartite](#!)
 
-* [Hash](#!)
-  * [`class Hashtable`](#!)
-  * [`class HashSet<T>`](#!)
-  * [`class Dictionary<TKey,TValue>`](#!)
-  * [`class OrderedDictionary`](#!)
+  * [Hash](#!)
+    * [`class Hashtable`](#!)
+    * [`class HashSet<T>`](#!)
+    * [`class Dictionary<TKey,TValue>`](#!)
+    * [`class OrderedDictionary`](#!)
 
 * [Specialized / Utility](#!)
   * [Sorted](#!)
