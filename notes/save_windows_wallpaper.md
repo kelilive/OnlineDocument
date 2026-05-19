@@ -1,9 +1,11 @@
+# Save Windows Wallpaper
+
 * Get lock screen background
   * Command Way
-    * HotKey `Win + R` 
+    * HotKey `Win + R`
     * Input `%localappdata%\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets`
   * File Explorer Way
-    * Open `File Explorer` 
+    * Open `File Explorer`
     * Input `%localappdata%\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets`
 
 * get desktop screen background

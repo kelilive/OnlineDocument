@@ -1,2 +1,0 @@
-# Copy C# and XAML files to a temporary integration folder
-robocopy . "../DevelopmentIntegration_temp" *.cs *.xaml /S /XD obj bin
