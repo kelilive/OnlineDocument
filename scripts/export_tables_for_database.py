@@ -1,5 +1,5 @@
 import pyodbc
-import pandas as pd
+import pandas as pd # pyright: ignore[reportMissingModuleSource]
 import os
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
