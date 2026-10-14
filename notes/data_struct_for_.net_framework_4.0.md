@@ -25,57 +25,56 @@
     * `Circular Linked List`
     * `Skip List`
 
-* `Non-Linear`
-  * `Tree`
-    * `Binary Tree`
-      * `By Structural Property`
-        * `Full Binary Tree`
-        * `Complete Binary Tree`
-        * `Perfect Binary Tree`
-      * `By Functional Purpose`
-        * `Binary Search Tree (BST)`
-          * `Balanced BST`
-            * `AVL Tree`
-            * `Red-Black Tree`
-          * `Unbalanced BST`
-        * `Heap`
-          * `Min-Heap`
-          * `Max-Heap`
-        * `Huffman Tree`
-        * `Segment Tree`
-        * `KD-Tree`
-    * `Multiway Tree`
-      * `Multiway Search Trees`
-        * `B-Tree`
-        * `B+ Tree`
-        * `2-3 Tree`
-        * `2-3-4 Tree`
-      * `Trie Tree`
-        * `Standard Trie`
-        * `Compressed Trie`
-        * `Suffix Tree`
-      * `Space Partitioning Trees`
-        * `Quadtree`
-        * `Octree`
+* `Tree`
+  * `Binary Tree`
+    * `By Structural Property`
+      * `Full Binary Tree`
+      * `Complete Binary Tree`
+      * `Perfect Binary Tree`
+    * `By Functional Purpose`
+      * `Binary Search Tree (BST)`
+        * `Balanced BST`
+          * `AVL Tree`
+          * `Red-Black Tree`
+        * `Unbalanced BST`
+      * `Heap`
+        * `Min-Heap`
+        * `Max-Heap`
+      * `Huffman Tree`
+      * `Segment Tree`
+      * `KD-Tree`
+  * `Multiway Tree`
+    * `Multiway Search Trees`
+      * `B-Tree`
+      * `B+ Tree`
+      * `2-3 Tree`
+      * `2-3-4 Tree`
+    * `Trie Tree`
+      * `Standard Trie`
+      * `Compressed Trie`
+      * `Suffix Tree`
+    * `Space Partitioning Trees`
+      * `Quadtree`
+      * `Octree`
 
-  * `Graph`
-    * `Directed / Undirected`
-    * `Weighted / Unweighted`
-    * `Representation`
-      * `Adjacency Matrix`
-      * `Adjacency List`
-      * `Adjacency Multilist`
-      * `Orthogonal List`
-    * `Special Graphs`
-      * `DAG`
-      * `Tree Graph`
-      * `Bipartite`
+* `Graph`
+  * `Directed / Undirected`
+  * `Weighted / Unweighted`
+  * `Representation`
+    * `Adjacency Matrix`
+    * `Adjacency List`
+    * `Adjacency Multilist`
+    * `Orthogonal List`
+  * `Special Graphs`
+    * `DAG`
+    * `Tree Graph`
+    * `Bipartite`
 
-  * `Hash`
-    * ``class Hashtable``
-    * ``class HashSet<T>``
-    * ``class Dictionary<TKey,TValue>``
-    * ``class OrderedDictionary``
+* `Hash`
+  * ``class Hashtable``
+  * ``class HashSet<T>``
+  * ``class Dictionary<TKey,TValue>``
+  * ``class OrderedDictionary``
 
 * `Specialized / Utility`
   * `Sorted`
